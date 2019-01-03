@@ -28,6 +28,7 @@ const MoeditorWindow = require('./moe-window'),
       MoeditorLocale = require('./moe-l10n'),
       MoeditorAbout = require('./moe-about'),
       MoeditorSettings = require('./moe-settings'),
+      LifelogConf = require('./lifelog-conf'),
       path = require('path');
 
 class MoeditorApplication {

@@ -1,11 +1,12 @@
-# Moeditor
-Your all-purpose markdown editor.
+# Lifelog
+
+Write your personal lifelog, encrypt it and save on your personal cloud. No need of servers or paid services.
+
+inital based on [Moeditor](https://moeditor.js.org/)
 
 Built with Electron.
 
-**Discuss on Telegram: https://t.me/Moeditor and help me work on the new version!**
-
-Visit our [homepage](https://moeditor.github.io/) or download [releases](https://github.com/Moeditor/Moeditor/releases).
+Visit our [homepage](https://lifelog.io/) or download [releases](https://github.com/toymak3r/Lifelog/releases).
 
 # Features
 * GitHub Flavored Markdown

@@ -40,3 +40,7 @@ jspm_packages
 
 # Jetbrains IDEs
 .idea
+
+# Google Drive Token
+token.json
+

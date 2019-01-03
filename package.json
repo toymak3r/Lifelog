@@ -30,6 +30,7 @@
     "electron-titlebar": "0.0.2",
     "flowchart.js": "^1.6.3",
     "font-awesome": "^4.6.3",
+    "googleapis": "^27.0.0",
     "highlight.js": "^9.6.0",
     "jquery": "^3.1.0",
     "js-sequence-diagrams": "^1000000.0.6",
